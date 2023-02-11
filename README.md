@@ -1,6 +1,6 @@
 # SimpleThreadPool
 
-## ThreadPool-CPPq
+## ThreadPool-CPP
 基于c++11实现的简单线程池
 优点:
     1.使用简单，不易出错
